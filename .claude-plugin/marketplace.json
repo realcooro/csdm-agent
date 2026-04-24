@@ -1,0 +1,7 @@
+{
+  "id": "csdm-agent",
+  "display_name": "CSDM Design Agent",
+  "description": "ServiceNow CSDM v4/v5 design specialist agent",
+  "author": "realcooro",
+  "tags": ["servicenow", "csdm", "cmdb", "itom", "itsm"]
+}
