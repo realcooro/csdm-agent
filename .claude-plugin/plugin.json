@@ -1,12 +1,21 @@
 {
   "name": "csdm-agent",
   "version": "1.0.0",
-  "description": "ServiceNow CSDM v4/v5 design specialist agent",
-  "author": "realcooro",
-  "agents": ["agents/csdm-agent.md"],
-  "commands": [
-    "commands/csdm-check.md",
-    "commands/csdm-design.md",
-    "commands/csdm-migrate.md"
+  "description": "ServiceNow CSDM v4/v5 design specialist agent. Covers layer design, Business Service to Service Instance migration, IRE/CMDB relationships, and cross-product service reference analysis.",
+  "author": {
+    "name": "Jerry Lee",
+    "url": "https://github.com/realcooro"
+  },
+  "repository": "https://github.com/realcooro/csdm-agent",
+  "homepage": "https://github.com/realcooro/csdm-agent",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "plugin",
+    "servicenow",
+    "csdm",
+    "cmdb",
+    "itom",
+    "itsm"
   ]
 }
