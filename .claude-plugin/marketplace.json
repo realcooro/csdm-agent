@@ -6,7 +6,8 @@
   },
   "plugins": [
     {
-      "id": "csdm-agent",
+      "name": "csdm-agent",
+      "source": "https://github.com/realcooro/csdm-agent",
       "display_name": "CSDM Design Agent",
       "description": "ServiceNow CSDM v4/v5 design specialist agent",
       "tags": ["servicenow", "csdm", "cmdb", "itom", "itsm"]
