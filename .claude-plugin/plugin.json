@@ -1,0 +1,12 @@
+{
+  "name": "csdm-agent",
+  "version": "1.0.0",
+  "description": "ServiceNow CSDM v4/v5 design specialist agent",
+  "author": "realcooro",
+  "agents": ["agents/csdm-agent.md"],
+  "commands": [
+    "commands/csdm-check.md",
+    "commands/csdm-design.md",
+    "commands/csdm-migrate.md"
+  ]
+}
